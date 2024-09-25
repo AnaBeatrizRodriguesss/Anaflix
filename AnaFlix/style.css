@@ -1,0 +1,13 @@
+body{
+    color: blue;
+    background: black;
+}
+header {
+ border-bottom: solid 2px blueviolet;
+ padding: 0px;
+ font-size: 32;
+ color:blueviolet
+}
+section {
+    
+}
